@@ -17,10 +17,6 @@ int main()
     cin >> t;
     cout << "af = ";
     cin >> af;
-    //cout << "nf = ";
-    //cin >> nf;
-    //cout << "nt = ";
-    //cin >> nt;
     Qp = M / (2 * t);
     np = Qp / qp;
     Qf = af * Qp;
